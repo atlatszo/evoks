@@ -3,7 +3,7 @@
   "description": "user badge component",
   "dependencies": {
     "component/dom": "1.0.6",
-    "jadejs/jade": "1.1.5",
+    "pugjs/pug": "1.1.5",
     "mjlescano/toggle-parent": "0.1.0"
   },
   "locals": [
