@@ -113,7 +113,6 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "test": "/usr/bin/true",
     "postinstall": "node ./bin/dos-install --config && node ./bin/dos-build"
   }
 }
